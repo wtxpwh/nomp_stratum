@@ -28,7 +28,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SpiritedAwayLab/node-multi-hashing-dyn.git"
+        "url": "https://github.com/SpiritedAwayLab/nomp_stratum.git"
     },
     "dependencies": {
         "async": "^2.5.0",
